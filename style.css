@@ -1,0 +1,15 @@
+body
+{ 
+	background-color: pink; 
+}
+
+li{
+list-style: none;
+float: left;
+padding: 10px;
+
+}
+
+li:hover{
+background-color: red;
+border-radius: 10px;
